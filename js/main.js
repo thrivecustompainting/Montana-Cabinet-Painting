@@ -40,7 +40,7 @@
   var copyBtn = document.querySelector(".copy-phone");
   if (copyBtn) {
     copyBtn.addEventListener("click", function () {
-      var number = "(406) 555-0100";
+      var number = "(406) 207-7830";
       var done = function () { copyBtn.textContent = "Copied"; setTimeout(function () { copyBtn.textContent = "Copy number"; }, 1500); };
       if (navigator.clipboard) navigator.clipboard.writeText(number).then(done, function () {});
     });

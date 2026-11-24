@@ -12,7 +12,8 @@ One-page website for Montana Cabinet Painting (Missoula, MT): plain HTML/CSS/JS 
 
 ## Before going live: replace placeholders
 Search `index.html` and `js/main.js` for these and replace them:
-- `4065550100` / `(406) 555-0100` / `+1-406-555-0100`: your phone number
+Phone is set to (406) 207-7830.
+
 - `you@example.com`: your email
 - `href="#"` on "See our Google reviews": your Google Business Profile reviews link
 - Photo placeholders: see `images/README.md`

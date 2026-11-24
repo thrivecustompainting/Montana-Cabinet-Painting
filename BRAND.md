@@ -1,6 +1,6 @@
 # Montana Cabinet Painting: Brand Guide (v1.0)
 
-Missoula, Montana · Cabinet painting · Hardware upgrades · nuDoor Certified Installer
+Missoula, Montana · Cabinet painting · Hardware upgrades · nuDoors Certified Installer
 
 The website uses the values below from `css/tokens.css`.
 
@@ -9,7 +9,7 @@ Montana Cabinet Painting is a Missoula-based specialist that turns tired kitchen
 
 - **Promise:** A kitchen that looks new, done in about a week, at a fraction of the cost of replacing it.
 - **Audience:** Missoula-area homeowners, landlords and realtors getting a home ready to sell.
-- **Proof points:** ~5-day turnaround · sprayed finish · new knobs, pulls and hinges installed · nuDoor certified installer · local and owner-operated.
+- **Proof points:** ~5-day turnaround · sprayed finish · new knobs, pulls and hinges installed · nuDoors certified installer · local and owner-operated.
 - **Personality:** Craftsman, neighborly, straight-talking, careful with your home.
 
 ## 2. Voice and tone
@@ -66,7 +66,7 @@ This is a starter logo. If a designer makes a final one, keep these colors and f
 ## 6. UI elements
 - **Contact actions, always in this order:** Text (primary, forest fill) → Call → Email (forest outline). Texting is the primary action because customers can send photos.
 - **Buttons:** 4 px corners, Inter SemiBold, at least 44 px tall.
-- **Badges:** brass outline pill with a brass icon, used for credentials and promises ("nuDoor Certified Installer", "Done in ~5 days"). At most two per section.
+- **Badges:** brass outline pill with a brass icon, used for credentials and promises ("nuDoors Certified Installer", "Done in ~5 days"). At most two per section.
 - **Corners and lines:** small corners (4–6 px), like millwork. Use thin warm-gray rules (`#DDD3C1`) instead of heavy shadows.
 
 ## 7. Photography
