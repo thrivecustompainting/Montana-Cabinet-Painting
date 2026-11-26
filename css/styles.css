@@ -229,7 +229,7 @@ p { margin: 0; }
 }
 @media (max-width: 880px) { .mobile-cta { display: flex; } }
 
-/* nuDoors feature section */
+/* New doors feature section */
 .section-feature { background: #EDE5D5; border-block: 1px solid var(--mcp-rule); }
 .card-link { font-weight: 600; text-decoration: none; color: var(--mcp-forest); margin-top: 4px; }
 .card-link:hover { text-decoration: underline; text-underline-offset: 4px; }
