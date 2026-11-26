@@ -270,3 +270,7 @@ p { margin: 0; }
   .nd-choose-grid, .nd-steps { grid-template-columns: minmax(0, 1fr); }
   .nd-cta .btn { width: 100%; }
 }
+
+/* Let long button text (like the email address) wrap on small phones */
+.btn { max-width: 100%; text-align: center; overflow-wrap: anywhere; }
+.site-footer p { overflow-wrap: anywhere; }
